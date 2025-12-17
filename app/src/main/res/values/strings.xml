@@ -1,0 +1,16 @@
+<resources>
+    <!-- ProfileOnBoard Activity -->
+    <string name="welcome_onboard">Welcome OnBoard!</string>
+    <string name="onboard_illustration">Onboarding Illustration</string>
+    <string name="back">Back</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="password_strength_label">How strong your password : </string>
+    <string name="start">Start</string>
+    <string name="already_have_account">Already have an account? </string>
+    <string name="login">Login</string>
+    <string name="app_name">Learnify</string>
+    <string name="default_web_client_id">266145963378-rknps2n8n6frtelaab32j25s7jlk550k.apps.googleusercontent.com</string>
+</resources>
